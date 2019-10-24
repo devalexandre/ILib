@@ -4,10 +4,10 @@
 	],
 	"autoload" : {
 		"psr-4" : {
-			"Indevweb\\ILib\\" : "src"
+			"Indev\\ILib\\" : "src"
 		}
 	},
-	"name" : "indevweb/ilib/ILIb",
+	"name" : "ILIb",
 	"type" : "library",
 	"description" : "componentes para adianti framework",
 	"require" : {
