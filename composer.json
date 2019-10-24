@@ -7,7 +7,7 @@
 			"Indev\\ILib\\" : "src"
 		}
 	},
-	"name" : "ILIb",
+	"name" : "Indev\\ILIb",
 	"type" : "library",
 	"description" : "componentes para adianti framework",
 	"require" : {
