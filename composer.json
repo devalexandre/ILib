@@ -1,0 +1,16 @@
+{
+	"keywords" : [
+		"adianti"
+	],
+	"autoload" : {
+		"psr-4" : {
+			"Indevweb\\ILib\\" : "src"
+		}
+	},
+	"name" : "indevweb/ilib/ILIb",
+	"type" : "library",
+	"description" : "componentes para adianti framework",
+	"require" : {
+		"php" : ">=7.3"
+	}
+}
