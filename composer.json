@@ -11,6 +11,14 @@
 	"type" : "library",
 	"description" : "componentes para adianti framework",
 	"require" : {
-		"php" : ">=7.3"
-	}
+		"php" : ">=7.1"
+	},
+	"license" : "GPL-3.0",
+	"authors" : [{
+			"name" : "Alexandre E Souza",
+			"email" : "alexandre@indev.net.br",
+			"homepage" : "www.indev.net.br",
+			"role" : "Lead Developer"
+		}
+	]
 }
